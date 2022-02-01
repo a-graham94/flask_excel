@@ -1,0 +1,4 @@
+cd desktop
+cd flask_excel
+python -m pip install flask
+python -m pip install --upgrade pip 
